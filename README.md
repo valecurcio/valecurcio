@@ -1,11 +1,11 @@
-# Hi! I'm Vale <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi! This is Vale <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-💻**` Fullstack Developer`**👨🏽‍💻
+💻 `Fullstack Developer` 👨🏽‍💻
 
-I'm a creative person with a passion for technology.
+I am a creative person with a passion for technology.
 
-- 💬 Ask me about anything, I am always happy to help; ❤️
-- 🐱‍👓 I enjoy learning new things; ⚡
+- 💬 Ask me about anything, I am always happy to help ❤️
+- 🐱‍👓 I enjoy learning new things ⚡
 
 [![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/valecurcio)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valecurcio/)
@@ -30,10 +30,4 @@ I'm a creative person with a passion for technology.
 <br />
 
 #
-
-### 📊 Stats
-
-![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=valecurcio&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=valecurcio&theme=gruvbox&border_radius=4.5) -->
 
